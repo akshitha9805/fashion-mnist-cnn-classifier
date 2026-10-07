@@ -79,6 +79,10 @@ Python, TensorFlow/Keras, NumPy, Matplotlib, scikit-learn, Google Colab
 - Deeper CNN with BatchNormalization
 - Transfer learning (MobileNet/ResNet) and testing on real product photos
 
+## Author
+
+Akshitha R, B.E. Artificial Intelligence & Machine Learning, Sai Vidya Institute of Technology, Bangalore
+
 ## References
 
 1. H. Xiao, K. Rasul, R. Vollgraf, "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms," arXiv:1708.07747, 2017.
